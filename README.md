@@ -1,8 +1,12 @@
 # GAM
-Exploring Generalised Additive Models
+Trial run of creating deterioration index using GAM
 
-Companion notebook for the GAM medium post.
+## Dependencies
+numpy, pandas, pygam, tqdm
 
-Be sure to update the path to wherever you save the Bikeshare dataset so that the notebook runs.
-
-You may want to remove the Datapane publishing code as this was just for presentation
+## Instructions
+1. `git clone <clone url>`
+2. `cd GAM`
+3. `mkdir data`
+4. Put data_dict.pkl (Contact me to get the file) in data folder
+5. Open jupyter notebook and run cells
